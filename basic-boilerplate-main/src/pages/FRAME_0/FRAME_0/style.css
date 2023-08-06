@@ -1,0 +1,26 @@
+.FRAME_4_23 {
+  transform: translate(-27px, 0px) rotate(0deg) scale(1, 1);
+  transform-origin: 0.5833333134651184px 0.5833333134651184px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1493.3333740234375px;
+  min-height: 630px;
+  background-color: rgba(
+    18.04615505039692,
+    18.04615505039692,
+    20.399999544024467,
+    1
+  );
+  border: none;
+}
+
+.ELLIPSE_4_144 {
+  transform: translate(43.74934768676758px, -333.0833435058594px) rotate(0deg)
+    scale(1, 1);
+  transform-origin: 0.5833333134651184px 0.5833333134651184px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  filter: blur(174.99998474121094px);
+}

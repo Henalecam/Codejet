@@ -1,0 +1,18 @@
+.FRAME_4130_492 {
+  transform: translate(352px, 291px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: min(736px, 100%);
+  min-height: 287px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 24px;
+}

@@ -1,0 +1,12 @@
+.FRAME_1_640 {
+  width: 1440px;
+  min-height: 977px;
+  background-color: rgba(
+    18.000000827014446,
+    18.000000827014446,
+    20.000000707805157,
+    1
+  );
+  border: none;
+  position: relative;
+}

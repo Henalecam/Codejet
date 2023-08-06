@@ -1,0 +1,11 @@
+.FRAME_4_180 {
+  transform: translate(0px, 0px) rotate(0deg) scale(1, 1);
+  transform-origin: 0.5088163614273071px 0.5088163614273071px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 285.0339660644531px;
+  min-height: 160px;
+  background-color: rgba(255, 255, 255, 1);
+  border: none;
+}

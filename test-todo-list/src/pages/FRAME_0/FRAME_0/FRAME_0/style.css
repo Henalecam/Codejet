@@ -1,0 +1,14 @@
+.FRAME_4130_493 {
+  z-index: 1;
+  width: min(736px, 100%);
+  min-height: 19px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 561px;
+}

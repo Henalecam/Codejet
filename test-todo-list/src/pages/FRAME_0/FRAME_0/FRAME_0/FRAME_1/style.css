@@ -1,0 +1,26 @@
+.FRAME_4130_498 {
+  z-index: 2;
+  width: min(111px, 100%);
+  min-height: 19px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.TEXT_4130_499 {
+  z-index: 1;
+  color: rgba(130.23594439029694, 132.37706869840622, 250.139057636261, 1);
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 0px;
+  line-height: 16.94318199157715px;
+}

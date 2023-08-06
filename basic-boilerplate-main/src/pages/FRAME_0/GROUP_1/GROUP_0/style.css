@@ -1,0 +1,27 @@
+.GROUP_4_20 {
+  transform: translate(0px, 0px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1344px;
+  min-height: 381px;
+  background-color: transparent;
+  border: none;
+}
+
+.TEXT_4_19 {
+  transform: translate(392px, 0px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-weight: 900;
+  font-size: 64px;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: -1.4299999475479126px;
+  line-height: 77.45454406738281px;
+}

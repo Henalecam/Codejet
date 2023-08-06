@@ -1,0 +1,11 @@
+.FRAME_4130_511 {
+  transform: translate(0px, 10px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 22px;
+  min-height: 36px;
+  background-color: rgba(255, 255, 255, 1);
+  border: none;
+}
