@@ -1,3 +1,9 @@
+# Testing the IA "CodeJet"
+
+Tests using "Rocket Seat" projects in figma.
+
+Conclusion: Very cool ideia, but don't really work, make a project based in a screen, but 0% organic, seems like just "find a way and make it"
+
 
 # Codejet - Basic Boilerplate
 
@@ -7,11 +13,13 @@ This is basic React project based on Create React App to test code exported from
 ![Logo Codejet](https://raw.githubusercontent.com/codejet-ai/basic-boilerplate/main/logo.svg)
 
 ## Table of contents
-- [Table of contents](#table-of-contents)
-- [How to start work with Codejet Basic Boilerplate](#how-to-start-work-with-codejet-basic-boilerplate)
-- [How to run this project (Description for Novices)](#how-to-run-this-project-description-for-novices)
-- [How to run script to move files from Downloads to src automatically (Only for Advanced User)](#how-to-run-script-to-move-files-from-downloads-to-src-automatically-only-for-advanced-user)
-- [Links](#links)
+- [Testing the IA "CodeJet"](#testing-the-ia-codejet)
+- [Codejet - Basic Boilerplate](#codejet---basic-boilerplate)
+  - [Table of contents](#table-of-contents)
+  - [How to start work with Codejet Basic Boilerplate](#how-to-start-work-with-codejet-basic-boilerplate)
+  - [How to run this project (Description for Novices)](#how-to-run-this-project-description-for-novices)
+  - [\[ADDITIONAL\] How to run script to move files from Downloads to src automatically (Only for Advanced Users)](#additional-how-to-run-script-to-move-files-from-downloads-to-src-automatically-only-for-advanced-users)
+  - [Links](#links)
 
 
 ## How to start work with Codejet Basic Boilerplate
